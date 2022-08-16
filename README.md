@@ -1,16 +1,12 @@
 # d2buildcrafter
 
-A new Flutter project.
+A comprehensive app to take your Destiny 2 builds to the next level.
 
-## Getting Started
+## Mission
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Almost every time I play with my console buddies I wind up hearing them
+lament *\*chuckle\** over not having a very mobile-friendly tool through
+which they can generate armour setups or save loadouts. While apps exist
+for these purposes, they're not known for having intuitive mobile setups.
+My goal is to create an app that breaks down a platform barrier by making
+buildcrafting on your phone simple.
