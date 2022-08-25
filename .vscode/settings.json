@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": false,
+    "editor.formatOnSave": false,
+    "editor.quickSuggestions": {
+        "strings": "on"
+    },
+    "dart.enableSdkFormatter": false
+}
